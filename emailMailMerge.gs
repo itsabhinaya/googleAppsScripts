@@ -1,4 +1,6 @@
 //Sends mail merge from draft email
+//Example sheet - https://docs.google.com/spreadsheets/d/1T1IhtfjP1lbagSrJID3kwGU-7VXYsF7pQvDh6kHNQIo/edit#gid=0
+//Example draft image - https://drive.google.com/file/d/1XZwHkJCzjFjv8x3jzcDYB9NzVwBuSWh3/view?usp=sharing
 
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
